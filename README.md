@@ -6,6 +6,7 @@
 # Cài đặt
 
 1. Hãy chắc chắn rằng bạn đã cài Nodejs trên máy tính
-2. Chạy Server bằng dòng lệnh: <pre>$ node bin/www</pre>
+2. Cài đặt các dependencies bằng dòng lệnh: <pre>$ npm install</pre>
+3. Chạy Server bằng dòng lệnh: <pre>$ node bin/www</pre>
 
-3. Truy cập vào localhost, mặc định ở cổng 3000: <a href="http://localhost:3000">http://localhost:3000</a>
+4. Truy cập vào localhost, mặc định ở cổng 3000: <a href="http://localhost:3000">http://localhost:3000</a>
